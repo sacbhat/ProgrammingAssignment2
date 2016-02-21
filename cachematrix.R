@@ -1,6 +1,6 @@
 
 # makeCacheMatrix is a function that returns a list of functions. 
-# Its purposepose is to store a martix and a cached value of the inverse of the matrix. Contains the following functions:
+# Its purpose is to store a martix and a cached value of the inverse of the matrix. Contains the following functions:
 # Args:
 #   x: A matrix (Optional)
 #
